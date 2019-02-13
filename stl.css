@@ -1,0 +1,40 @@
+body{
+  font-family: "tahoma";
+  background-color:#f2ebeb;
+  max-width: 1264px;
+  min-width: 1264px;
+
+
+}
+
+  .perf img {
+    height: 170px;width: 170px;margin-top:50px;margin-left: 16px;
+    border-bottom-left-radius: 2em;border-top-right-radius: 2em;
+
+  }
+  .icon img {
+    height: 20px;width: 20px;margin-top:10px;margin-left: 25px;
+  }
+  .ingles img {
+    height: 20px;width: 100px;margin-top:10px;margin-right:25px;
+    margin-left: 50px;
+  }
+  .frances img {
+    height: 20px;width: 20px;margin-top:10px;margin-right: 125px;
+    margin-left: 50px;
+  }
+  .espanhol img {
+    height: 20px;width: 60px;margin-top:10px;margin-right: 125px;
+    margin-left: 50px;
+  }
+
+  un{font-style: TAHOMA;font-size:12px;}
+  in{font-style: TAHOMA;font-size:15px;}
+
+  ::-webkit-scrollbar{width:6px;height:8px;}
+::-webkit-scrollbar-button:start:decrement
+::-webkit-scrollbarbutton:end:increment{display:block;height:0;background-color:transparent;}
+::-webkit-scrollbar-track-piece{background-color: #FFFFFF;-webkit-border-bottom-right-radius:3px;
+  -webkit-borderbottom-left-radius:3px;}
+::-webkit-scrollbar-thumb:vertical{height:50px; background-color: #3f8790;-webkit-border-radius:px;}
+::-webkit-scrollbar-thumb:horizontal{width:50px;}
